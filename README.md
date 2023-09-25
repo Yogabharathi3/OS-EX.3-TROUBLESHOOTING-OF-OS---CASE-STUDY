@@ -3,21 +3,21 @@
 To Troubleshooting of Operating System
 
 ## STEPS:
-Identify the Problem
-Gather Information
-Check for Updates
-Restart the System
-Check Hardware
-Run Diagnostic Tools
-Review Event Logs
-Remove Recently Installed Software
-Safe Mode
-Virus and Malware Scan
-Check Disk and File System
-Update Drivers
-Restore the System
-Backup Data
-Reinstall Operating system
+1.Identify the Problem
+2.Gather Information
+3.Check for Updates
+4.Restart the System
+5.Check Hardware
+6.Run Diagnostic Tools
+7.Review Event Logs
+8.Remove Recently Installed Software
+9.Safe Mode
+10.Virus and Malware Scan
+11.Check Disk and File System
+12.Update Drivers
+13.Restore the System
+14.Backup Data
+15.Reinstall Operating system
 ## PROCEDURE:
 ## STEP-1: Identify the Problem Start by determining the specific issue or error you're encountering. Is it a system crash, slow performance, software not working, or something else?
 
